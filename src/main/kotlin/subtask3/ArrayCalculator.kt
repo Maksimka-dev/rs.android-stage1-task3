@@ -51,7 +51,6 @@ class ArrayCalculator {
                     } 
                     else
                     {
-                        //lastPositive cannot be zero because of multiplication in if above
                         res = res / lPos * nextNeg
                     }
                 }
